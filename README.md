@@ -1,3 +1,5 @@
+![alt text](https://github.com/medisa-aris/training-day1/blob/master/default_avatar.png)
+
 # training-day1
 
 ## About Project
