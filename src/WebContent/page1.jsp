@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>This is page 1</h1>
+<h1>This is page 1, update 2</h1>
 
 <a href="index.jsp">Go To Homepage</a>
 
